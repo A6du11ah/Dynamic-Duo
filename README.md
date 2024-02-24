@@ -1,4 +1,4 @@
-# Dynamic-Duo
+# Dynamic Duo
 Dual Player 2D Top-down RPG Game Developed with Java Swing Framework
 
 ## Description
