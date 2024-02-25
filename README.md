@@ -1,8 +1,8 @@
 # Dynamic Duo
-Dual Player 2D Top-down RPG Game Developed with Java Swing Framework
+Dual Player 2D Top-down RPG Developed with Java Swing Framework
 
 ## Description
-This is a dual player 2D top-down RPG game developed using Java Swing. Players control two characters simultaneously using the same keyboard in an immersive RPG world.
+This is a dual player 2D top-down RPG developed using Java Swing. Players control two characters simultaneously using the same keyboard in an immersive RPG world.
 
 ## Features
 1. **Dual Player Control:** Two players can be controlled simultaneously using the same keyboard, providing a unique multiplayer experience.
